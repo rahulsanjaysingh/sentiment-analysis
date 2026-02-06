@@ -1,0 +1,5 @@
+{
+  "name": "Sentix: Advanced Sentiment Engine",
+  "description": "A high-performance sentiment analysis tool powered by Gemini, providing deep emotional insights, sarcasm detection, and sentence-level breakdowns.",
+  "requestFramePermissions": []
+}
